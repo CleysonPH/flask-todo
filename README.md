@@ -42,4 +42,4 @@ Logo em seguida basta executar o arquivo ```app.py```
 python app.py
 ```
 
-E então a acessar a aplicação em http://localhost:5000/
+E então acessar a aplicação em http://localhost:5000/
